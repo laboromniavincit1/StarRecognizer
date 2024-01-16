@@ -1,0 +1,7 @@
+os
+opencv-python
+matplotlib
+keras
+tensorflow
+numpy
+pandas
